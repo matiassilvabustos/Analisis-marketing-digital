@@ -1,2 +1,7 @@
 # Análisis de rendimiento en campañas de marketing digital
-Limpieza, análisis y visualización de datos de campañas digitales para identificar y definir los factores clave del éxito.
+## Herramientas
+- **Excel / CSV:** formato del dataset original.
+- **Power BI Desktop:**
+  - Power Query: carga de datos y traducción de nombres de columnas.
+  - DAX (nivel básico): medidas con DIVIDE para ROAS, CPC medio, CTR y tasa de conversión.
+  - Visualización: diseño del dashboard de dos páginas, con versión para móvil.
